@@ -1,0 +1,6 @@
+langchain-openai
+mcp-server-fetch
+mcp-use
+python-dotenv
+streamlit
+streamlit-extras
